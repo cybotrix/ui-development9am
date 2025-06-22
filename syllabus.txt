@@ -1,0 +1,92 @@
+
+------------------------------------------------------
+	Out Contact Number 
+	infocampus - 8884166608
+	Siyaram - Trainer 8792462607
+------------------------------------------------------
+	Course Contents 
+		1. UI Developer / frontend developer (3 months) + live project 
+		2. Full stack MERN/MEAN 4 months (frontend + backend) + live project 
+------------------------------------------------------
+   frontend developer / ui developer skills 
+	Syllabus 
+		1. UI Developer / frontend developer (3 months)
+		=> 1st month - Layout Design - monday to friday 1.5 hours session 
+		     1. html
+			 2. CSS
+			 3. Bootstrap
+			 4. Figma - tool
+			 5. icon library 
+			 6. Daily Homework (36 page html, 36 pages css, 36 pages bootstrap)
+			 7. Online Test 
+			 8. Quiz / GD On weekend 
+			 9. Mini Project 
+			 10. git & github 	
+		-----------------------------------------
+		=> 2nd Month - JavaScript - client side processing language 
+			1. basic 
+			2. data binding - html + css + javascript 
+			3. ECMA + JSON-SERVER + API Call - client server communication 
+			4. data structure using javascript only for interview 
+			5. Class Object 
+			6. AJAX 
+			7. Daily Homework + Weekend GD + QUIZ + Online Test 
+			8. Mini Project 
+		----------------------------------------
+		   => interview will start after javascript
+		----------------------------------------
+		=> 3rd Month - js library and framework
+			1. React + Hooks + Redux + jest for Unit Testing - 22 session 
+				OR 
+			2. TypeScript + Angular 16+
+			
+			3. Daily Homework + Weekend GD + QUIZ + Online Test 
+			4. Mini Project 
+		----------------------------------------
+		=>Live Project - 25 hours 
+			1. on weekend from 3rd month 2nd weekend 
+			2. 3 hours sat + 3 hours sunday for 4 to 5 weekend 
+			3. project documentation 
+			4. API Creation 
+			5. Layout design 
+			6. Unit Testing 
+			7. module integration 
+			8. Git classes 
+			9. build + deployment 
+	
+----------------------------------------------------------------------------------------------------------------------
+		Backend 
+----------------------------------------------------------------------------------------------------------------------
+			MERN - Mongodb(database) + Express(Framework of node) + React + Nodejs   --   1 months 
+				OR 
+			MEAN - Mongodb(database) + Express(Framework of node) + Angular + Nodejs
+----------------------------------------------------------------------------------------------------------------------
+		=>Job Placement 
+			1. Step by step syllabus 
+			2. Resume building 
+			3. Mock interview 
+			4. Live Project 
+			5. Unlimited Scheduled interview calls.
+			6. 1100 + companies we have they hire from infocampus
+====================================================================================		
+		Salary scale - 3LPA TO 6LPA - for fresher 
+------------------------------------------------------------------------------------
+		Full Stack 
+			1. MERN - Mongodb + express + React + Nodejs
+			2. MEAN - Mongodb + express + Angular + Nodejs 
+------------------------------------------------------------------------------------
+	     Full Stack (MERN/MEAN)  - 20k - online - 13k
+		 Frontend/UI  - 14k	- online - 9k
+------------------------------------------------------------------------------------	
+		
+		first 3 classes is free u can attend and plan based on that 
+		
+		Any Query u can ask now ?
+		
+------------------------------------------------------------------------------------
+		Web Technologies 
+			->frontend technologies - frontend / ui developer 
+			->backend technologies - backend developer
+			->full stack developer - both 
+------------------------------------------------------------------------------------
+			

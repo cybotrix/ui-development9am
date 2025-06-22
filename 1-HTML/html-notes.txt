@@ -1,0 +1,79 @@
+HTML - Hypertext Markup Language
+       html has collections of pre-defined tag.
+       It use to create basic structure of webpage. 
+       html tags has limited property and value due to this limitations CSS , js and other technologies.
+
+How it work ?
+    Responsive webpage = html(Tags) + CSS(property & value)
+
+    Note - Responsive webpage will fit in all size of window as mobile, tab, laptop, desktop etc.
+
+    Responsive + Dynamic Webpage = html(Tags) + CSS(property & value) + javascript(processing)
+
+  DYNAMIC :   input(html) => processing(js) => output(html)
+              CSS - It change look and feel of html 
+--------------------------------------------------------------------------------------------------------
+  Tag ?
+    ->it can be pre-defined and user defined 
+    <>  open tag 
+    </> close tag 
+-----------------------------------------------------------
+  Type of tag ?
+     1. input tags - it collect input from user
+     2. output tags - it display different type of output to user 
+
+  Syntax / structure
+     3. Dependent tag / paired tag
+        ->if the tag is seprate open and seprate close 
+        example 
+            <html>
+                <head></head>
+                <body></body>
+            </html>
+
+     4. independent tag / un-paired tag 
+         ->if the tag has only open 
+            example
+                <br>
+                <img>
+                <hr>
+        
+        Note : independent tag do not support react JSX 
+
+     5. self closing tag 
+          ->if the tag has open and close together
+             example
+                <br/>
+                <img/>
+                <hr/>
+
+ The behavior of html tags 
+     6. block level 
+         ->if the tag print statement in new line by default
+     7. inline tag 
+         ->if the tag print statement in same line - side by side 
+
+Using CSS 
+    ->Block level tag can be converted into inline 
+    ->Inline tag can be converted into block 
+ based on screen size.
+ ------------------------------------------------------------------------
+    1. input tag  -  it collect input from user 
+    2. output tag  - it display ouput to user 
+    3. Dependent tag - it has open and close seprate 
+    4. independent tag - it has only open 
+    5. self closing tag - it has open and close together
+    6. block level tag - it print statement in new line 
+    7. inline tag - it print statement in same line 
+--------------------------------------------------------------------------
+  what are valid extension of html document
+    =>  .html  - it is most popular 
+    =>  .htm 
+--------------------------------------------------------------------------
+
+    
+
+
+
+
+
